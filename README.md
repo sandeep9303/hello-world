@@ -1,2 +1,4 @@
-# hello-world
-this is my first Repository
+  void main
+  {
+      printf("Hello World !");
+  }
